@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="pp_AN/ADDassort.axaml" value="pp_AN/pp_AN.csproj" />
+        <entry key="pp_AN/App.axaml" value="pp_AN/pp_AN.csproj" />
+        <entry key="pp_AN/EDITassort.axaml" value="pp_AN/pp_AN.csproj" />
+        <entry key="pp_AN/MainWindow.axaml" value="pp_AN/pp_AN.csproj" />
+        <entry key="pp_AN/assortment.axaml" value="pp_AN/pp_AN.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
