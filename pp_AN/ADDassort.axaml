@@ -17,15 +17,15 @@
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <TextBlock Margin = "0 25 0 0">Категория: </TextBlock>
-                <TextBox Name="Category" x:CompileBindings="False" Text="{Binding Категория_id}" Width="250" Height="5" Margin = "117 0 0 0" Watermark="Категория"></TextBox>
+                <TextBox Name="Category" x:CompileBindings="False" Text="{Binding Категория_id}" Width="250" Height="5" Margin = "80 0 0 0" Watermark="Категория"></TextBox>
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <TextBlock Margin = "0 25 0 0">Цена: </TextBlock>
-                <TextBox Name="Price" x:CompileBindings="False" Text="{Binding Цена}" Width="250" Height="5" Margin = "100 0 0 0" Watermark="Цена"></TextBox>
+                <TextBox Name="Price" x:CompileBindings="False" Text="{Binding Цена}" Width="250" Height="5" Margin = "117 0 0 0" Watermark="Цена"></TextBox>
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <TextBlock Margin = "0 25 0 0">Количество: </TextBlock>
-                <TextBox Name="Quantity" x:CompileBindings="False" Text="{Binding Количество}" Width="250" Height="5" Margin = "100 0 0 0" Watermark="Количество"></TextBox>
+                <TextBox Name="Quantity" x:CompileBindings="False" Text="{Binding Количество}" Width="250" Height="5" Margin = "70 0 0 0" Watermark="Количество"></TextBox>
             </StackPanel>
             <StackPanel Orientation="Horizontal">
                 <Button Name="Save" Content="Сохранить" Margin = "0 15 0 20" Click="AddProduct"></Button>

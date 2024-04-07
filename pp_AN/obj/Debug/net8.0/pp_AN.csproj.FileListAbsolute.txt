@@ -147,3 +147,4 @@ C:\Users\mrble\OneDrive\Рабочий стол\ПП_ОТЫРГАШЕВА\pp_AN\
 C:\Users\mrble\OneDrive\Рабочий стол\ПП_ОТЫРГАШЕВА\pp_AN\pp_AN\obj\Debug\net8.0\pp_AN.csproj.CopyComplete
 C:\Users\mrble\OneDrive\Рабочий стол\ПП_ОТЫРГАШЕВА\pp_AN\pp_AN\obj\Debug\net8.0\pp_AN.genruntimeconfig.cache
 C:\Users\mrble\OneDrive\Рабочий стол\ПП_ОТЫРГАШЕВА\pp_AN\pp_AN\obj\Debug\net8.0\ref\pp_AN.dll
+C:\Users\mrble\OneDrive\Рабочий стол\ПП_ОТЫРГАШЕВА\pp_AN\pp_AN\obj\Debug\net8.0\pp_AN.sourcelink.json
